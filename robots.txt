@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-9u47te.ybrassociates.com/sitemap.xml
